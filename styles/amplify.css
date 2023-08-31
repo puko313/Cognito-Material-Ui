@@ -1,0 +1,26 @@
+:root {
+  --amplify-font-family: 'Roboto', 'Helvetica', 'Arial', 'sans-serif';
+  --amplify-text-xxs: 0.75rem;
+  --amplify-text-xs: 0.81rem;
+  --amplify-text-sm: 0.875rem;
+  --amplify-text-md: 1rem;
+  --amplify-text-lg: 1.5rem;
+  --amplify-text-xl: 2rem;
+  --amplify-text-xxl: 2.5rem;
+  --amplify-primary-color: #673ab7;
+  --amplify-primary-contrast: var(–amplify-white);
+  --amplify-primary-tint: #9575cd;
+  --amplify-primary-shade: #512da8;
+  --amplify-secondary-color: #ffc107;
+  --amplify-secondary-contrast: var(–amplify-white);
+  --amplify-secondary-tint: #ffd54f;
+  --amplify-secondary-shade: #ffa000;
+  --amplify-tertiary-color: #5d8aff;
+  --amplify-tertiary-contrast: var(–amplify-white);
+  --amplify-tertiary-tint: #7da1ff;
+  --amplify-tertiary-shade: #537BE5;
+  --amplify-grey: #828282;
+  --amplify-light-grey: #c4c4c4;
+  --amplify-white: #ffffff;
+  --amplify-red: #dd3f5b;
+}
